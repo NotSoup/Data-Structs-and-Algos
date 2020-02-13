@@ -1,0 +1,3 @@
+C++:
+$g++ -o executableName.exe codeName.exe
+$./executableName.exe     (./ works if command prompt is in directory)
